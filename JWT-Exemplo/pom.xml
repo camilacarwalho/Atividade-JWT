@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.edu.ifpb</groupId>
-	<artifactId>SD-jwt</artifactId>
+	<artifactId>JWT-Exemplo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>JWT-Exemplo</name>
 	<description>Exemplo de Autenticação</description>
